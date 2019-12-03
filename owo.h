@@ -3,14 +3,9 @@
 
 #include <stdio.h>
 
-#define _Awignas     _Alignas
-#define _Awignof     _Alignof
-#define _Awoic       _Atomic
 #define _Owool       _Bool
 #define _Cowplex     _Complex
-#define _Genyeric    _Generic
 #define _Imaginyawy  _Imaginary
-#define _Nyowetuwn   _Noreturn
 #define owtwo        auto
 #define bweak        break
 #define casowo       case
